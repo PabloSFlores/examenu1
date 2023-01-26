@@ -1,0 +1,11 @@
+img#banda {
+    width: 250px;
+    height: 550px;
+    object-fit: cover;
+}
+
+img#anuncio {
+    width: 360px;
+    height: 360px;
+    object-fit: cover;
+}
